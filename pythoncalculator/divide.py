@@ -1,2 +1,2 @@
-def divide(a,b):
-    return float(a)/float(b)
+def divide(x,y):
+    return x / y
